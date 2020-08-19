@@ -1,0 +1,10 @@
+Package: EncryptDF
+Type: Package
+Title: Encrypt Data Frame
+Version: 0.1.0
+Author: From stackoverflow jlhoward
+Maintainer: Michael J. Zenz <zenz@wisc.edu>
+Description: Encrypt Data Frame
+License: GNU GENERAL PUBLIC LICENSE
+Encoding: UTF-8
+LazyData: true
