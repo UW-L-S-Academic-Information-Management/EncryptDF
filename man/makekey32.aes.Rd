@@ -9,7 +9,7 @@ makekey32.aes(seedVal)
 }
 \arguments{
   \item{seedVal}{A integer value used to seed the random creation of an encryption key.}
-
+}
 \details{This function creates a 32 bit key that can be used to encrypt a data frame.
 
 }
